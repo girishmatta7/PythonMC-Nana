@@ -19,3 +19,8 @@ def days_to_hours(num_of_days, sample_text):
 
 
 days_to_hours(20, "This is all good!")
+
+# User inputs
+
+user_input = input("Enter your name: ").title()
+print(user_input)
